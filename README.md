@@ -1,6 +1,7 @@
 # Advanced Sakila Database Queries
-
+![SampleSakila](https://github.com/user-attachments/assets/a341a746-b855-4180-93ea-42c3353d10e5)
 Welcome to the Advanced Sakila Database Queries repository! This project includes a collection of advanced SQL queries performed on the Sakila sample database using MySQL. These queries showcase complex SQL operations including joins, subqueries, window functions, and aggregations.
+
 
 ## Overview
 
